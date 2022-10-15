@@ -17,3 +17,5 @@
 - Sintaxe opcional: estrutura switch-case;
 - Expressão Condicional Ternária;
 - Escopo e Inicialização;
+
+
